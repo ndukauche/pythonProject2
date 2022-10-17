@@ -31,7 +31,7 @@
 name = input("what is your name?\n")
 def greet(name):
     print(f"hello {name}")
-    print(f"how do u do?")
+    print(f"how do u do   k?")
     print(f"isn't?")
 
 greet(name)
