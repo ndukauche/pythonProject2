@@ -52,7 +52,7 @@ def prim():
     num = int(input("whats the number u want to check?:\n"))
     for i in range(2, num):
         if num % i == 0:
-            is_prime = False
+            is_prime =False
     if is_prime:
         print(f"it's a prime number")
     else:
